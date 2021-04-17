@@ -1,4 +1,4 @@
-TO DO LIST (git pull_2nd try)
+TO DO LIST (git pull_3rd try)
 
 1. 원격 Repo 변경
 
