@@ -1,0 +1,13 @@
+TO DO LIST
+
+1. Github login
+
+2. Create new repository
+
+3. Remote repo URL 복사
+
+4. Local Repo에서 원격 repo 에 연결
+
+5. git push origin master
+
+6. 원격 repo 확인
